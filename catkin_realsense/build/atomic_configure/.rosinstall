@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/jaycho/catkin_realsense/devel/setup.sh
